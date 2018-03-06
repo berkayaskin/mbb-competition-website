@@ -79,7 +79,7 @@ jQuery(document).ready(function($) {
         else var str = $(this).serialize();		
             $.ajax({
                 type: "POST",
-                method: "POST"
+                method: "POST",
                 url: "https://formspree.io/berkayaskiin@gmail.com",
                 dataType: "json",
                 data: str,
