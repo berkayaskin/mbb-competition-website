@@ -79,8 +79,9 @@ jQuery(document).ready(function($) {
         else var str = $(this).serialize();		
             $.ajax({
                 type: "POST",
-                url: "contactform.php",
-                contentType: "application/json; charset=utf-8",
+                method: "POST"
+                url: "https://formspree.io/berkayaskiin@gmail.com",
+                dataType: "json",
                 data: str,
                 success: function(msg){
                    // alert(msg);
