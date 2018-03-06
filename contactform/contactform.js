@@ -80,6 +80,7 @@ jQuery(document).ready(function($) {
             $.ajax({
                 type: "POST",
                 url: "contactform.php",
+                contentType: "application/json; charset=utf-8",
                 data: str,
                 success: function(msg){
                    // alert(msg);
