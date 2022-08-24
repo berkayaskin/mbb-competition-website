@@ -1,6 +1,8 @@
-# berkayaskin.github.io
-Mersin Buyuksehir Belediyesi Fikir Projesi Yarismasi
+## Mersin Metropolitan Municipality - Coast Architectural and Coastal Recreation Idea Project Competition Website
 
-This project has made during my internship in Mersin Metropolitan Municipality.
-The website is online at https://www.mersinkiyiyarismasi.com address.
+Official competition website I have created during my internship in Mersin Metropolitan Municipality in 2018. 
+
+View [working demo](https://mbb-competition-website.vercel.app/)
+
+![Landing Page Preview](/img/landing-preview.png)
 
